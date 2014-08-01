@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<arch:spatialUnit xmlns:arch="http://ochre.lib.uchicago.edu/schema/SpatialUnit/SpatialUnit.xsd" xmlns:oc="http://opencontext.org/schema/space_schema_v1.xsd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gml="http://www.opengis.net/gml" UUID="594C3F30-0F82-4BA0-A588-F61C2956CCDD" ownedBy="F905BD53-C843-4349-0A46-48FF32B5F1BE">
+  <arch:name>
+    <arch:string>DK123</arch:string>
+  </arch:name>
+  <oc:item_class>
+    <oc:name>Site</oc:name>
+    <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_50x50.jpg</oc:iconURI>
+  </oc:item_class>
+  <arch:observations>
+    <arch:observation obsNumber="1">
+      <oc:obs_metadata>
+        <oc:source>z_7_c2bb515fa</oc:source>
+      </oc:obs_metadata>
+      <arch:properties>
+        <arch:property>
+          <arch:variableID>AAB24398-2E70-4F4C-6568-4220E8088824</arch:variableID>
+          <arch:valueID>53A2EAE4-58D6-4426-58E1-C334761C585E</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/DCD1D655-B4E6-49EF-7D22-20DC0AA1B7DB">DCD1D655-B4E6-49EF-7D22-20DC0AA1B7DB</oc:propid>
+          <oc:var_label type="alphanumeric">Component</oc:var_label>
+          <oc:show_val>Unknown Aboriginal</oc:show_val>
+        </arch:property>
+      </arch:properties>
+    </arch:observation>
+  </arch:observations>
+  <oc:context>
+    <oc:tree id="default">
+      <oc:parent href="http://opencontext.org/subjects/2A1B75E6-8C79-49B9-873A-A2E006669691">
+        <oc:name>United States</oc:name>
+        <oc:id>2A1B75E6-8C79-49B9-873A-A2E006669691</oc:id>
+        <oc:level>3</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/9D7BB146-63E1-47CF-AA85-D2061984381E">
+        <oc:name>Alabama</oc:name>
+        <oc:id>9D7BB146-63E1-47CF-AA85-D2061984381E</oc:id>
+        <oc:level>2</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/B79F40E6-BB00-4FEE-9ED3-A1F5BD37409E">
+        <oc:name>De Kalb</oc:name>
+        <oc:id>B79F40E6-BB00-4FEE-9ED3-A1F5BD37409E</oc:id>
+        <oc:level>1</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+    </oc:tree>
+  </oc:context>
+  <oc:metadata>
+    <dc:title>Alabama Site Files: DK123 (Site)</dc:title>
+    <dc:publisher>Open Context</dc:publisher>
+    <dc:date>2014-07-30</dc:date>
+    <dc:subject>Alabama</dc:subject>
+    <dc:subject>archaeology</dc:subject>
+    <dc:subject>cultural resource management</dc:subject>
+    <dc:subject>DINAA</dc:subject>
+    <dc:subject>North America</dc:subject>
+    <dc:subject>site files</dc:subject>
+    <dc:subject>state historical preservation office</dc:subject>
+    <dc:creator href="http://opencontext.org/persons/1CD159BD-8A47-41CB-C68B-F29CD3110609">Office of Archaeological Research (OAR), University of Alabama</dc:creator>
+    <dc:identifier>http://opencontext.org/subjects/594C3F30-0F82-4BA0-A588-F61C2956CCDD</dc:identifier>
+    <oc:project_name href="http://opencontext.org/projects/F905BD53-C843-4349-0A46-48FF32B5F1BE">Alabama Site Files</oc:project_name>
+    <oc:pub_date>2014-07-30T00:00:00-07:00</oc:pub_date>
+    <oc:coins>ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=dataset&amp;rft.title=Alabama+Site+Files%3A+DK123+%28Site%29&amp;rft.publisher=Open+Context&amp;rft.source=Open+Context&amp;rft.subject=Alabama&amp;rft.subject=archaeology&amp;rft.subject=cultural+resource+management&amp;rft.subject=DINAA&amp;rft.subject=North+America&amp;rft.subject=site+files&amp;rft.subject=state+historical+preservation+office&amp;rft.creator=Office+of+Archaeological+Research+%28OAR%29%2C+University+of+Alabama&amp;rft.identifier=http%3A%2F%2Fopencontext.org%2Fsubjects%2F594C3F30-0F82-4BA0-A588-F61C2956CCDD</oc:coins>
+    <oc:geo_reference>
+      <oc:geo_lat>34.379681164557</oc:geo_lat>
+      <oc:geo_long>-85.693359375</oc:geo_long>
+      <oc:metasource ref_type="self" href="http://opencontext.org/subjects/594C3F30-0F82-4BA0-A588-F61C2956CCDD" specificity="-11">
+        <oc:note>Approximated by geotile to zoom level 11</oc:note>
+        <oc:source_name>DK123</oc:source_name>
+        <oc:source_id>594C3F30-0F82-4BA0-A588-F61C2956CCDD</oc:source_id>
+      </oc:metasource>
+    </oc:geo_reference>
+    <oc:copyright_lic href="http://creativecommons.org/publicdomain/zero/1.0/">
+      <oc:lic_name>Zero (Public Domain)</oc:lic_name>
+      <oc:lic_vers>1</oc:lic_vers>
+      <oc:lic_URI>http://creativecommons.org/publicdomain/zero/1.0/</oc:lic_URI>
+      <oc:lic_icon_URI>http://i.creativecommons.org/p/zero/1.0/88x31.png</oc:lic_icon_URI>
+    </oc:copyright_lic>
+  </oc:metadata>
+  <oc:social_usage>
+    <oc:last_updated>2014-07-31T05:39:23-07:00</oc:last_updated>
+    <oc:item_views>
+      <oc:count>1</oc:count>
+      <oc:view_time>2014/07/31 05:39:23</oc:view_time>
+    </oc:item_views>
+    <oc:user_tags/>
+  </oc:social_usage>
+</arch:spatialUnit>

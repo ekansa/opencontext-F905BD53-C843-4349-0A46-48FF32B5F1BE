@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="utf-8"?>
+<arch:spatialUnit xmlns:arch="http://ochre.lib.uchicago.edu/schema/SpatialUnit/SpatialUnit.xsd" xmlns:oc="http://opencontext.org/schema/space_schema_v1.xsd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gml="http://www.opengis.net/gml" UUID="C162FC4A-A0EC-4A16-9015-76D34CBDF184" ownedBy="F905BD53-C843-4349-0A46-48FF32B5F1BE">
+  <arch:name>
+    <arch:string>LI46</arch:string>
+  </arch:name>
+  <oc:item_class>
+    <oc:name>Site</oc:name>
+    <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_50x50.jpg</oc:iconURI>
+  </oc:item_class>
+  <arch:observations>
+    <arch:observation obsNumber="1">
+      <oc:obs_metadata>
+        <oc:source>z_7_c2bb515fa</oc:source>
+      </oc:obs_metadata>
+      <arch:properties>
+        <arch:property>
+          <arch:variableID>028D83AD-6887-4F1B-08A8-F82FEE75FA34</arch:variableID>
+          <arch:valueID>20AC5F6F-45E8-4521-5248-5168AB9FDF80</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/9373EF4D-5F01-4592-7AEA-FDE023B2563A">9373EF4D-5F01-4592-7AEA-FDE023B2563A</oc:propid>
+          <oc:var_label type="nominal">Ethnic</oc:var_label>
+          <oc:show_val>EURO</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>028D83AD-6887-4F1B-08A8-F82FEE75FA34</arch:variableID>
+          <arch:valueID>D2201ABB-5FF8-4688-55C8-9CA8ECE82CE3</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/186589E6-FA34-4132-0550-B9D9ECC8E577">186589E6-FA34-4132-0550-B9D9ECC8E577</oc:propid>
+          <oc:var_label type="nominal">Ethnic</oc:var_label>
+          <oc:show_val>ABO</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>B1371BA3-FD08-4FBC-A85A-A4BB464B6081</arch:variableID>
+          <arch:valueID>18AD4FC5-0728-4557-1CBC-34B1CDE318B3</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/CDB0D984-2241-495C-3DD0-CA283B0EA4F3">CDB0D984-2241-495C-3DD0-CA283B0EA4F3</oc:propid>
+          <oc:var_label type="alphanumeric">Stage (Abreviated)</oc:var_label>
+          <oc:show_val>UNID</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>B1371BA3-FD08-4FBC-A85A-A4BB464B6081</arch:variableID>
+          <arch:valueID>8C8026DE-4155-4F5D-C9BA-85C26CAA2BE8</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/9394C7CF-21B1-4FA2-FD6D-F4D314F0B6D7">9394C7CF-21B1-4FA2-FD6D-F4D314F0B6D7</oc:propid>
+          <oc:var_label type="alphanumeric">Stage (Abreviated)</oc:var_label>
+          <oc:show_val>MISS</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>B1371BA3-FD08-4FBC-A85A-A4BB464B6081</arch:variableID>
+          <arch:valueID>8E3DA407-BEA1-49F7-E81C-49940F1BA0C0</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/5285DEB3-7268-4894-A888-45E027613555">5285DEB3-7268-4894-A888-45E027613555</oc:propid>
+          <oc:var_label type="alphanumeric">Stage (Abreviated)</oc:var_label>
+          <oc:show_val>ARCH</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>C4EBCF31-9248-40B2-F2B3-2703DEC7DCDC</arch:variableID>
+          <arch:valueID>18AD4FC5-0728-4557-1CBC-34B1CDE318B3</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/8F2C20C3-E495-4079-D3FF-015F77E0CADD">8F2C20C3-E495-4079-D3FF-015F77E0CADD</oc:propid>
+          <oc:var_label type="alphanumeric">Period (Abreviated)</oc:var_label>
+          <oc:show_val>UNID</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>C4EBCF31-9248-40B2-F2B3-2703DEC7DCDC</arch:variableID>
+          <arch:valueID>5C1A2605-7602-40D8-BEFE-027A827D25E7</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/32F75610-9EF6-4571-EF83-6C45D2262CD1">32F75610-9EF6-4571-EF83-6C45D2262CD1</oc:propid>
+          <oc:var_label type="alphanumeric">Period (Abreviated)</oc:var_label>
+          <oc:show_val>LATE</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>8AC5B45F-32E9-4C03-3D8D-B1A9B9B8E122</arch:variableID>
+          <arch:valueID>18AD4FC5-0728-4557-1CBC-34B1CDE318B3</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/79C66A52-0990-41E0-243D-3CDA7BC18303">79C66A52-0990-41E0-243D-3CDA7BC18303</oc:propid>
+          <oc:var_label type="alphanumeric">Phase (Abreviated)</oc:var_label>
+          <oc:show_val>UNID</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>8AC5B45F-32E9-4C03-3D8D-B1A9B9B8E122</arch:variableID>
+          <arch:valueID>74EA2FD9-4519-4FF7-5473-E8C2CB15B56E</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/77488C6F-FD16-4A2F-189D-B4EA9B73CF0A">77488C6F-FD16-4A2F-189D-B4EA9B73CF0A</oc:propid>
+          <oc:var_label type="alphanumeric">Phase (Abreviated)</oc:var_label>
+          <oc:show_val>WADE</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>8AC5B45F-32E9-4C03-3D8D-B1A9B9B8E122</arch:variableID>
+          <arch:valueID>786E2BB9-BFD2-48C7-AB31-210F764205D4</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/CEA0C104-C9B0-423F-722C-BAF6528F10EB">CEA0C104-C9B0-423F-722C-BAF6528F10EB</oc:propid>
+          <oc:var_label type="alphanumeric">Phase (Abreviated)</oc:var_label>
+          <oc:show_val>ELORA</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>8AC5B45F-32E9-4C03-3D8D-B1A9B9B8E122</arch:variableID>
+          <arch:valueID>E0563B5C-F165-4DF3-65A9-3B21031FF8B4</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/6BB56DDA-3493-4188-43CA-DF268E2C3AA4">6BB56DDA-3493-4188-43CA-DF268E2C3AA4</oc:propid>
+          <oc:var_label type="alphanumeric">Phase (Abreviated)</oc:var_label>
+          <oc:show_val>LEDBETTER</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>8AC5B45F-32E9-4C03-3D8D-B1A9B9B8E122</arch:variableID>
+          <oc:propid href="http://opencontext.org/properties/041F3C0B-BE61-4727-25E6-570DD74CCAF8">041F3C0B-BE61-4727-25E6-570DD74CCAF8</oc:propid>
+          <oc:var_label type="alphanumeric">Phase (Abreviated)</oc:var_label>
+          <oc:show_val>20</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>8AC5B45F-32E9-4C03-3D8D-B1A9B9B8E122</arch:variableID>
+          <arch:valueID>F9302C5B-9886-483A-CCEE-ED8D044BEEE0</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/886CBAC1-DFDD-4F49-8280-8B8377E0F669">886CBAC1-DFDD-4F49-8280-8B8377E0F669</oc:propid>
+          <oc:var_label type="alphanumeric">Phase (Abreviated)</oc:var_label>
+          <oc:show_val>LITTLE BEAR</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>AAB24398-2E70-4F4C-6568-4220E8088824</arch:variableID>
+          <arch:valueID>CFD1D4BE-2AEB-40DD-21E3-0D219A33A18C</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/A404EC41-8EE9-4C0D-976A-D62C489CE16C">A404EC41-8EE9-4C0D-976A-D62C489CE16C</oc:propid>
+          <oc:var_label type="alphanumeric">Component</oc:var_label>
+          <oc:show_val>Elora, Ledbetter, Little Bear Creek, Cotaco Creek, Wade, Bakers Creek, Camp Creek, Shell Tempered Sherds, 20th Century Nonaboriginal</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>35E00478-96BD-47FB-CDE9-050C0733F33D</arch:variableID>
+          <arch:valueID>48C6D25E-152D-482A-8713-7BCF52785CC9</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/4BA40E1A-75A8-4221-4857-00E2B6136112">4BA40E1A-75A8-4221-4857-00E2B6136112</oc:propid>
+          <oc:var_label type="nominal">Stage Period</oc:var_label>
+          <oc:show_val>Unidentified</oc:show_val>
+          <oc:linkedData>
+            <oc:relationLink localType="variable" localID="35E00478-96BD-47FB-CDE9-050C0733F33D" href="http://opencontext.org/vocabularies/dinaa/00001">
+              <oc:vocabulary href="http://opencontext.org/vocabularies/dinaa">DINAA Vocabulary</oc:vocabulary>
+              <oc:label>Has period</oc:label>
+              <oc:targetLink localType="property" localID="4BA40E1A-75A8-4221-4857-00E2B6136112" localURI="http://opencontext.org/properties/4BA40E1A-75A8-4221-4857-00E2B6136112" href="http://opencontext.org/vocabularies/dinaa/00063">
+                <oc:vocabulary href="http://opencontext.org/vocabularies/dinaa">DINAA Vocabulary</oc:vocabulary>
+                <oc:label>Uncategorized</oc:label>
+              </oc:targetLink>
+            </oc:relationLink>
+          </oc:linkedData>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>35E00478-96BD-47FB-CDE9-050C0733F33D</arch:variableID>
+          <arch:valueID>BC1E5B95-4EB2-49E6-405D-D2D387FAC05E</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/D70B05BB-E9A1-4C2A-E20E-3879E5F0278B">D70B05BB-E9A1-4C2A-E20E-3879E5F0278B</oc:propid>
+          <oc:var_label type="nominal">Stage Period</oc:var_label>
+          <oc:show_val>Late Archaic</oc:show_val>
+          <oc:linkedData>
+            <oc:relationLink localType="variable" localID="35E00478-96BD-47FB-CDE9-050C0733F33D" href="http://opencontext.org/vocabularies/dinaa/00001">
+              <oc:vocabulary href="http://opencontext.org/vocabularies/dinaa">DINAA Vocabulary</oc:vocabulary>
+              <oc:label>Has period</oc:label>
+              <oc:targetLink localType="property" localID="D70B05BB-E9A1-4C2A-E20E-3879E5F0278B" localURI="http://opencontext.org/properties/D70B05BB-E9A1-4C2A-E20E-3879E5F0278B" href="http://opencontext.org/vocabularies/dinaa/00014">
+                <oc:vocabulary href="http://opencontext.org/vocabularies/dinaa">DINAA Vocabulary</oc:vocabulary>
+                <oc:label>Late Archaic</oc:label>
+              </oc:targetLink>
+            </oc:relationLink>
+          </oc:linkedData>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>35E00478-96BD-47FB-CDE9-050C0733F33D</arch:variableID>
+          <arch:valueID>F8A73758-F487-42BC-A163-CF8E6D4B5CFD</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/817091D5-8E10-437F-038E-44B39DF2FF4A">817091D5-8E10-437F-038E-44B39DF2FF4A</oc:propid>
+          <oc:var_label type="nominal">Stage Period</oc:var_label>
+          <oc:show_val>Mississippian, Undifferentiated</oc:show_val>
+          <oc:linkedData>
+            <oc:relationLink localType="variable" localID="35E00478-96BD-47FB-CDE9-050C0733F33D" href="http://opencontext.org/vocabularies/dinaa/00001">
+              <oc:vocabulary href="http://opencontext.org/vocabularies/dinaa">DINAA Vocabulary</oc:vocabulary>
+              <oc:label>Has period</oc:label>
+              <oc:targetLink localType="property" localID="817091D5-8E10-437F-038E-44B39DF2FF4A" localURI="http://opencontext.org/properties/817091D5-8E10-437F-038E-44B39DF2FF4A" href="http://opencontext.org/vocabularies/dinaa/00023">
+                <oc:vocabulary href="http://opencontext.org/vocabularies/dinaa">DINAA Vocabulary</oc:vocabulary>
+                <oc:label>Mississippian</oc:label>
+              </oc:targetLink>
+            </oc:relationLink>
+          </oc:linkedData>
+        </arch:property>
+      </arch:properties>
+    </arch:observation>
+  </arch:observations>
+  <oc:context>
+    <oc:tree id="default">
+      <oc:parent href="http://opencontext.org/subjects/2A1B75E6-8C79-49B9-873A-A2E006669691">
+        <oc:name>United States</oc:name>
+        <oc:id>2A1B75E6-8C79-49B9-873A-A2E006669691</oc:id>
+        <oc:level>3</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/9D7BB146-63E1-47CF-AA85-D2061984381E">
+        <oc:name>Alabama</oc:name>
+        <oc:id>9D7BB146-63E1-47CF-AA85-D2061984381E</oc:id>
+        <oc:level>2</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/3DFB1810-8FCC-4288-EE09-95030F658B43">
+        <oc:name>Morgan</oc:name>
+        <oc:id>3DFB1810-8FCC-4288-EE09-95030F658B43</oc:id>
+        <oc:level>1</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+    </oc:tree>
+  </oc:context>
+  <oc:metadata>
+    <dc:title>Alabama Site Files: LI46 (Site)</dc:title>
+    <dc:publisher>Open Context</dc:publisher>
+    <dc:date>2014-07-30</dc:date>
+    <dc:subject>Alabama</dc:subject>
+    <dc:subject>archaeology</dc:subject>
+    <dc:subject>cultural resource management</dc:subject>
+    <dc:subject>DINAA</dc:subject>
+    <dc:subject>North America</dc:subject>
+    <dc:subject>site files</dc:subject>
+    <dc:subject>state historical preservation office</dc:subject>
+    <dc:creator href="http://opencontext.org/persons/1CD159BD-8A47-41CB-C68B-F29CD3110609">Office of Archaeological Research (OAR), University of Alabama</dc:creator>
+    <dc:identifier>http://opencontext.org/subjects/C162FC4A-A0EC-4A16-9015-76D34CBDF184</dc:identifier>
+    <oc:project_name href="http://opencontext.org/projects/F905BD53-C843-4349-0A46-48FF32B5F1BE">Alabama Site Files</oc:project_name>
+    <oc:pub_date>2014-07-30T00:00:00-07:00</oc:pub_date>
+    <oc:coins>ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=dataset&amp;rft.title=Alabama+Site+Files%3A+LI46+%28Site%29&amp;rft.publisher=Open+Context&amp;rft.source=Open+Context&amp;rft.subject=Alabama&amp;rft.subject=archaeology&amp;rft.subject=cultural+resource+management&amp;rft.subject=DINAA&amp;rft.subject=North+America&amp;rft.subject=site+files&amp;rft.subject=state+historical+preservation+office&amp;rft.creator=Office+of+Archaeological+Research+%28OAR%29%2C+University+of+Alabama&amp;rft.identifier=http%3A%2F%2Fopencontext.org%2Fsubjects%2FC162FC4A-A0EC-4A16-9015-76D34CBDF184</oc:coins>
+    <oc:geo_reference>
+      <oc:geo_lat>34.669327007488</oc:geo_lat>
+      <oc:geo_long>-86.923828125</oc:geo_long>
+      <oc:metasource ref_type="self" href="http://opencontext.org/subjects/C162FC4A-A0EC-4A16-9015-76D34CBDF184" specificity="-11">
+        <oc:note>Approximated by geotile to zoom level 11</oc:note>
+        <oc:source_name>LI46</oc:source_name>
+        <oc:source_id>C162FC4A-A0EC-4A16-9015-76D34CBDF184</oc:source_id>
+      </oc:metasource>
+    </oc:geo_reference>
+    <oc:copyright_lic href="http://creativecommons.org/publicdomain/zero/1.0/">
+      <oc:lic_name>Zero (Public Domain)</oc:lic_name>
+      <oc:lic_vers>1</oc:lic_vers>
+      <oc:lic_URI>http://creativecommons.org/publicdomain/zero/1.0/</oc:lic_URI>
+      <oc:lic_icon_URI>http://i.creativecommons.org/p/zero/1.0/88x31.png</oc:lic_icon_URI>
+    </oc:copyright_lic>
+  </oc:metadata>
+  <oc:social_usage>
+    <oc:last_updated>2014-07-31T07:19:51-07:00</oc:last_updated>
+    <oc:item_views>
+      <oc:count>1</oc:count>
+      <oc:view_time>2014/07/31 07:19:51</oc:view_time>
+    </oc:item_views>
+    <oc:user_tags>
+      <oc:tag type="chronological" status="public">
+        <oc:name>(3,950 BCE - 1770 CE)</oc:name>
+        <oc:chrono isDuration="true">
+          <oc:time_start>-3950</oc:time_start>
+          <oc:time_finish>1770</oc:time_finish>
+          <oc:metasource ref_type="self" href="http://opencontext.org/subjects/C162FC4A-A0EC-4A16-9015-76D34CBDF184">
+            <oc:source_name>LI46</oc:source_name>
+            <oc:source_id>C162FC4A-A0EC-4A16-9015-76D34CBDF184</oc:source_id>
+          </oc:metasource>
+        </oc:chrono>
+        <oc:tag_creator id="oc">
+          <oc:creator_name>Open Context Editors</oc:creator_name>
+          <oc:set_label>Default set</oc:set_label>
+          <oc:set_id>Default set</oc:set_id>
+          <oc:set_date>2014-07-30T11:51:06-07:00</oc:set_date>
+        </oc:tag_creator>
+      </oc:tag>
+    </oc:user_tags>
+  </oc:social_usage>
+</arch:spatialUnit>

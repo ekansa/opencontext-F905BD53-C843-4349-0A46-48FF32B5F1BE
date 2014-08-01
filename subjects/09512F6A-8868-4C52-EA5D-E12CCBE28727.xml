@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="utf-8"?>
+<arch:spatialUnit xmlns:arch="http://ochre.lib.uchicago.edu/schema/SpatialUnit/SpatialUnit.xsd" xmlns:oc="http://opencontext.org/schema/space_schema_v1.xsd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gml="http://www.opengis.net/gml" UUID="09512F6A-8868-4C52-EA5D-E12CCBE28727" ownedBy="F905BD53-C843-4349-0A46-48FF32B5F1BE">
+  <arch:name>
+    <arch:string>MB10</arch:string>
+  </arch:name>
+  <oc:item_class>
+    <oc:name>Site</oc:name>
+    <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_50x50.jpg</oc:iconURI>
+  </oc:item_class>
+  <arch:observations>
+    <arch:observation obsNumber="1">
+      <oc:obs_metadata>
+        <oc:source>z_7_c2bb515fa</oc:source>
+      </oc:obs_metadata>
+      <arch:properties>
+        <arch:property>
+          <arch:variableID>028D83AD-6887-4F1B-08A8-F82FEE75FA34</arch:variableID>
+          <arch:valueID>D2201ABB-5FF8-4688-55C8-9CA8ECE82CE3</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/186589E6-FA34-4132-0550-B9D9ECC8E577">186589E6-FA34-4132-0550-B9D9ECC8E577</oc:propid>
+          <oc:var_label type="nominal">Ethnic</oc:var_label>
+          <oc:show_val>ABO</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>B1371BA3-FD08-4FBC-A85A-A4BB464B6081</arch:variableID>
+          <arch:valueID>45E37863-B495-438E-076F-2717A57B5788</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/59FF58F3-0634-42AF-8B2F-D27095A0B445">59FF58F3-0634-42AF-8B2F-D27095A0B445</oc:propid>
+          <oc:var_label type="alphanumeric">Stage (Abreviated)</oc:var_label>
+          <oc:show_val>GULF</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>B1371BA3-FD08-4FBC-A85A-A4BB464B6081</arch:variableID>
+          <arch:valueID>8C8026DE-4155-4F5D-C9BA-85C26CAA2BE8</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/9394C7CF-21B1-4FA2-FD6D-F4D314F0B6D7">9394C7CF-21B1-4FA2-FD6D-F4D314F0B6D7</oc:propid>
+          <oc:var_label type="alphanumeric">Stage (Abreviated)</oc:var_label>
+          <oc:show_val>MISS</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>B1371BA3-FD08-4FBC-A85A-A4BB464B6081</arch:variableID>
+          <arch:valueID>D85103E0-8500-473C-AAD0-2E561DF8CC02</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/4E570A37-71A2-4502-AF08-63DEB7246EC4">4E570A37-71A2-4502-AF08-63DEB7246EC4</oc:propid>
+          <oc:var_label type="alphanumeric">Stage (Abreviated)</oc:var_label>
+          <oc:show_val>WOOD</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>C4EBCF31-9248-40B2-F2B3-2703DEC7DCDC</arch:variableID>
+          <arch:valueID>000DB40F-50F9-441E-AEBD-58D9E5ED3636</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/0612E33D-28E4-4829-1056-70C04AEF804C">0612E33D-28E4-4829-1056-70C04AEF804C</oc:propid>
+          <oc:var_label type="alphanumeric">Period (Abreviated)</oc:var_label>
+          <oc:show_val>MID</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>C4EBCF31-9248-40B2-F2B3-2703DEC7DCDC</arch:variableID>
+          <arch:valueID>18AD4FC5-0728-4557-1CBC-34B1CDE318B3</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/8F2C20C3-E495-4079-D3FF-015F77E0CADD">8F2C20C3-E495-4079-D3FF-015F77E0CADD</oc:propid>
+          <oc:var_label type="alphanumeric">Period (Abreviated)</oc:var_label>
+          <oc:show_val>UNID</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>C4EBCF31-9248-40B2-F2B3-2703DEC7DCDC</arch:variableID>
+          <arch:valueID>5C1A2605-7602-40D8-BEFE-027A827D25E7</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/32F75610-9EF6-4571-EF83-6C45D2262CD1">32F75610-9EF6-4571-EF83-6C45D2262CD1</oc:propid>
+          <oc:var_label type="alphanumeric">Period (Abreviated)</oc:var_label>
+          <oc:show_val>LATE</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>8AC5B45F-32E9-4C03-3D8D-B1A9B9B8E122</arch:variableID>
+          <arch:valueID>22F6134E-20F6-4BAD-7ED0-8B852BA407D4</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/D5F2227A-4804-4718-36B1-5C53E9C12851">D5F2227A-4804-4718-36B1-5C53E9C12851</oc:propid>
+          <oc:var_label type="alphanumeric">Phase (Abreviated)</oc:var_label>
+          <oc:show_val>BAYOU LA BATRE</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>8AC5B45F-32E9-4C03-3D8D-B1A9B9B8E122</arch:variableID>
+          <arch:valueID>44C4BE45-8D6B-4F07-6311-A716872A472D</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/388B1FBD-E733-488A-603D-CF07E935014E">388B1FBD-E733-488A-603D-CF07E935014E</oc:propid>
+          <oc:var_label type="alphanumeric">Phase (Abreviated)</oc:var_label>
+          <oc:show_val>PORTER</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>8AC5B45F-32E9-4C03-3D8D-B1A9B9B8E122</arch:variableID>
+          <arch:valueID>9D1AFD94-AD46-4B04-5F93-A656C9B05903</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/05D013B8-6460-4F1D-B135-496FF6407141">05D013B8-6460-4F1D-B135-496FF6407141</oc:propid>
+          <oc:var_label type="alphanumeric">Phase (Abreviated)</oc:var_label>
+          <oc:show_val>WAKULLA</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>8AC5B45F-32E9-4C03-3D8D-B1A9B9B8E122</arch:variableID>
+          <arch:valueID>C0D05F99-2A35-4751-63CB-CE200FB45FF3</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/BE2AFCDF-0C72-4703-2347-6AEB0D87700A">BE2AFCDF-0C72-4703-2347-6AEB0D87700A</oc:propid>
+          <oc:var_label type="alphanumeric">Phase (Abreviated)</oc:var_label>
+          <oc:show_val>PENSACOLA</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>8AC5B45F-32E9-4C03-3D8D-B1A9B9B8E122</arch:variableID>
+          <arch:valueID>F78239AF-AA15-474C-D56F-E4A81FF15BC3</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/A6405012-07BC-425D-8965-4F643D44C0CF">A6405012-07BC-425D-8965-4F643D44C0CF</oc:propid>
+          <oc:var_label type="alphanumeric">Phase (Abreviated)</oc:var_label>
+          <oc:show_val>TATES HAMMOCK</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>AAB24398-2E70-4F4C-6568-4220E8088824</arch:variableID>
+          <arch:valueID>70961039-87D1-42DC-AFC4-236C7DE375B2</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/540B6B71-D3BC-4E1F-DD2A-EC2E31C98C20">540B6B71-D3BC-4E1F-DD2A-EC2E31C98C20</oc:propid>
+          <oc:var_label type="alphanumeric">Component</oc:var_label>
+          <oc:show_val>Bayou La Batre, Porter Phase, Tates Hummock Phase, Wakulla, Pensacola</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>35E00478-96BD-47FB-CDE9-050C0733F33D</arch:variableID>
+          <arch:valueID>21EB2F04-1FA0-46B9-8ADA-13E2AB16DD1E</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/CCBA9ADC-85F5-410C-7C29-05E96DB0386A">CCBA9ADC-85F5-410C-7C29-05E96DB0386A</oc:propid>
+          <oc:var_label type="nominal">Stage Period</oc:var_label>
+          <oc:show_val>Middle Woodland</oc:show_val>
+          <oc:linkedData>
+            <oc:relationLink localType="variable" localID="35E00478-96BD-47FB-CDE9-050C0733F33D" href="http://opencontext.org/vocabularies/dinaa/00001">
+              <oc:vocabulary href="http://opencontext.org/vocabularies/dinaa">DINAA Vocabulary</oc:vocabulary>
+              <oc:label>Has period</oc:label>
+              <oc:targetLink localType="property" localID="CCBA9ADC-85F5-410C-7C29-05E96DB0386A" localURI="http://opencontext.org/properties/CCBA9ADC-85F5-410C-7C29-05E96DB0386A" href="http://opencontext.org/vocabularies/dinaa/00019">
+                <oc:vocabulary href="http://opencontext.org/vocabularies/dinaa">DINAA Vocabulary</oc:vocabulary>
+                <oc:label>Middle Woodland</oc:label>
+              </oc:targetLink>
+            </oc:relationLink>
+          </oc:linkedData>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>35E00478-96BD-47FB-CDE9-050C0733F33D</arch:variableID>
+          <arch:valueID>40CD93E6-6690-456B-054C-8EE7EAAF4A37</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/6B94B036-4B2E-475B-DD21-3213252CFC63">6B94B036-4B2E-475B-DD21-3213252CFC63</oc:propid>
+          <oc:var_label type="nominal">Stage Period</oc:var_label>
+          <oc:show_val>Late Woodland</oc:show_val>
+          <oc:linkedData>
+            <oc:relationLink localType="variable" localID="35E00478-96BD-47FB-CDE9-050C0733F33D" href="http://opencontext.org/vocabularies/dinaa/00001">
+              <oc:vocabulary href="http://opencontext.org/vocabularies/dinaa">DINAA Vocabulary</oc:vocabulary>
+              <oc:label>Has period</oc:label>
+              <oc:targetLink localType="property" localID="6B94B036-4B2E-475B-DD21-3213252CFC63" localURI="http://opencontext.org/properties/6B94B036-4B2E-475B-DD21-3213252CFC63" href="http://opencontext.org/vocabularies/dinaa/00020">
+                <oc:vocabulary href="http://opencontext.org/vocabularies/dinaa">DINAA Vocabulary</oc:vocabulary>
+                <oc:label>Late Woodland</oc:label>
+              </oc:targetLink>
+            </oc:relationLink>
+          </oc:linkedData>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>35E00478-96BD-47FB-CDE9-050C0733F33D</arch:variableID>
+          <arch:valueID>F6D2DAF8-9FA7-4F43-9C54-1989A4001A52</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/AB3BD9D1-2F3C-4B7D-1685-4AE5ACA9AB0A">AB3BD9D1-2F3C-4B7D-1685-4AE5ACA9AB0A</oc:propid>
+          <oc:var_label type="nominal">Stage Period</oc:var_label>
+          <oc:show_val>Late Gulf Formational</oc:show_val>
+          <oc:linkedData>
+            <oc:relationLink localType="variable" localID="35E00478-96BD-47FB-CDE9-050C0733F33D" href="http://opencontext.org/vocabularies/dinaa/00001">
+              <oc:vocabulary href="http://opencontext.org/vocabularies/dinaa">DINAA Vocabulary</oc:vocabulary>
+              <oc:label>Has period</oc:label>
+              <oc:targetLink localType="property" localID="AB3BD9D1-2F3C-4B7D-1685-4AE5ACA9AB0A" localURI="http://opencontext.org/properties/AB3BD9D1-2F3C-4B7D-1685-4AE5ACA9AB0A" href="http://opencontext.org/vocabularies/dinaa/00019">
+                <oc:vocabulary href="http://opencontext.org/vocabularies/dinaa">DINAA Vocabulary</oc:vocabulary>
+                <oc:label>Middle Woodland</oc:label>
+              </oc:targetLink>
+            </oc:relationLink>
+          </oc:linkedData>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>35E00478-96BD-47FB-CDE9-050C0733F33D</arch:variableID>
+          <arch:valueID>F8A73758-F487-42BC-A163-CF8E6D4B5CFD</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/817091D5-8E10-437F-038E-44B39DF2FF4A">817091D5-8E10-437F-038E-44B39DF2FF4A</oc:propid>
+          <oc:var_label type="nominal">Stage Period</oc:var_label>
+          <oc:show_val>Mississippian, Undifferentiated</oc:show_val>
+          <oc:linkedData>
+            <oc:relationLink localType="variable" localID="35E00478-96BD-47FB-CDE9-050C0733F33D" href="http://opencontext.org/vocabularies/dinaa/00001">
+              <oc:vocabulary href="http://opencontext.org/vocabularies/dinaa">DINAA Vocabulary</oc:vocabulary>
+              <oc:label>Has period</oc:label>
+              <oc:targetLink localType="property" localID="817091D5-8E10-437F-038E-44B39DF2FF4A" localURI="http://opencontext.org/properties/817091D5-8E10-437F-038E-44B39DF2FF4A" href="http://opencontext.org/vocabularies/dinaa/00023">
+                <oc:vocabulary href="http://opencontext.org/vocabularies/dinaa">DINAA Vocabulary</oc:vocabulary>
+                <oc:label>Mississippian</oc:label>
+              </oc:targetLink>
+            </oc:relationLink>
+          </oc:linkedData>
+        </arch:property>
+      </arch:properties>
+    </arch:observation>
+  </arch:observations>
+  <oc:context>
+    <oc:tree id="default">
+      <oc:parent href="http://opencontext.org/subjects/2A1B75E6-8C79-49B9-873A-A2E006669691">
+        <oc:name>United States</oc:name>
+        <oc:id>2A1B75E6-8C79-49B9-873A-A2E006669691</oc:id>
+        <oc:level>3</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/9D7BB146-63E1-47CF-AA85-D2061984381E">
+        <oc:name>Alabama</oc:name>
+        <oc:id>9D7BB146-63E1-47CF-AA85-D2061984381E</oc:id>
+        <oc:level>2</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/56A18071-DEB1-4A61-5639-2F91AD1D8851">
+        <oc:name>Mobile</oc:name>
+        <oc:id>56A18071-DEB1-4A61-5639-2F91AD1D8851</oc:id>
+        <oc:level>1</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+    </oc:tree>
+  </oc:context>
+  <oc:metadata>
+    <dc:title>Alabama Site Files: MB10 (Site)</dc:title>
+    <dc:publisher>Open Context</dc:publisher>
+    <dc:date>2014-07-30</dc:date>
+    <dc:subject>Alabama</dc:subject>
+    <dc:subject>archaeology</dc:subject>
+    <dc:subject>cultural resource management</dc:subject>
+    <dc:subject>DINAA</dc:subject>
+    <dc:subject>North America</dc:subject>
+    <dc:subject>site files</dc:subject>
+    <dc:subject>state historical preservation office</dc:subject>
+    <dc:creator href="http://opencontext.org/persons/1CD159BD-8A47-41CB-C68B-F29CD3110609">Office of Archaeological Research (OAR), University of Alabama</dc:creator>
+    <dc:identifier>http://opencontext.org/subjects/09512F6A-8868-4C52-EA5D-E12CCBE28727</dc:identifier>
+    <oc:project_name href="http://opencontext.org/projects/F905BD53-C843-4349-0A46-48FF32B5F1BE">Alabama Site Files</oc:project_name>
+    <oc:pub_date>2014-07-30T00:00:00-07:00</oc:pub_date>
+    <oc:coins>ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=dataset&amp;rft.title=Alabama+Site+Files%3A+MB10+%28Site%29&amp;rft.publisher=Open+Context&amp;rft.source=Open+Context&amp;rft.subject=Alabama&amp;rft.subject=archaeology&amp;rft.subject=cultural+resource+management&amp;rft.subject=DINAA&amp;rft.subject=North+America&amp;rft.subject=site+files&amp;rft.subject=state+historical+preservation+office&amp;rft.creator=Office+of+Archaeological+Research+%28OAR%29%2C+University+of+Alabama&amp;rft.identifier=http%3A%2F%2Fopencontext.org%2Fsubjects%2F09512F6A-8868-4C52-EA5D-E12CCBE28727</oc:coins>
+    <oc:geo_reference>
+      <oc:geo_lat>30.37284578133</oc:geo_lat>
+      <oc:geo_long>-88.330078125</oc:geo_long>
+      <oc:metasource ref_type="self" href="http://opencontext.org/subjects/09512F6A-8868-4C52-EA5D-E12CCBE28727" specificity="-11">
+        <oc:note>Approximated by geotile to zoom level 11</oc:note>
+        <oc:source_name>MB10</oc:source_name>
+        <oc:source_id>09512F6A-8868-4C52-EA5D-E12CCBE28727</oc:source_id>
+      </oc:metasource>
+    </oc:geo_reference>
+    <oc:copyright_lic href="http://creativecommons.org/publicdomain/zero/1.0/">
+      <oc:lic_name>Zero (Public Domain)</oc:lic_name>
+      <oc:lic_vers>1</oc:lic_vers>
+      <oc:lic_URI>http://creativecommons.org/publicdomain/zero/1.0/</oc:lic_URI>
+      <oc:lic_icon_URI>http://i.creativecommons.org/p/zero/1.0/88x31.png</oc:lic_icon_URI>
+    </oc:copyright_lic>
+  </oc:metadata>
+  <oc:social_usage>
+    <oc:last_updated>2014-07-31T08:06:16-07:00</oc:last_updated>
+    <oc:item_views>
+      <oc:count>1</oc:count>
+      <oc:view_time>2014/07/31 08:06:16</oc:view_time>
+    </oc:item_views>
+    <oc:user_tags>
+      <oc:tag type="chronological" status="public">
+        <oc:name>(500 BCE - 950 CE)</oc:name>
+        <oc:chrono isDuration="true">
+          <oc:time_start>-500</oc:time_start>
+          <oc:time_finish>950</oc:time_finish>
+          <oc:metasource ref_type="self" href="http://opencontext.org/subjects/09512F6A-8868-4C52-EA5D-E12CCBE28727">
+            <oc:source_name>MB10</oc:source_name>
+            <oc:source_id>09512F6A-8868-4C52-EA5D-E12CCBE28727</oc:source_id>
+          </oc:metasource>
+        </oc:chrono>
+        <oc:tag_creator id="oc">
+          <oc:creator_name>Open Context Editors</oc:creator_name>
+          <oc:set_label>Default set</oc:set_label>
+          <oc:set_id>Default set</oc:set_id>
+          <oc:set_date>2014-07-30T12:30:56-07:00</oc:set_date>
+        </oc:tag_creator>
+      </oc:tag>
+    </oc:user_tags>
+  </oc:social_usage>
+</arch:spatialUnit>

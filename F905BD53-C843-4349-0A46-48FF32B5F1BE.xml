@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<arch:project xmlns:arch="http://ochre.lib.uchicago.edu/schema/Project/Project.xsd" xmlns:oc="http://opencontext.org/schema/project_schema_v1.xsd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gml="http://www.opengis.net/gml" UUID="F905BD53-C843-4349-0A46-48FF32B5F1BE" ownedBy="F905BD53-C843-4349-0A46-48FF32B5F1BE">
+  <arch:name>
+    <arch:string>Alabama Site Files</arch:string>
+  </arch:name>
+  <oc:manage_info>
+    <oc:queryVal>Alabama+Site+Files</oc:queryVal>
+    <oc:rootPath>/United+States</oc:rootPath>
+    <oc:spaceCount>0</oc:spaceCount>
+    <oc:mediaCount>0</oc:mediaCount>
+    <oc:diaryCount>0</oc:diaryCount>
+    <oc:projGeoPoint> </oc:projGeoPoint>
+  </oc:manage_info>
+  <arch:notes>
+    <arch:note type="short_des">
+      <arch:string type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">Alabama State Archaeological Site Files</div>
+      </arch:string>
+    </arch:note>
+    <arch:note type="long_des">
+      <arch:string type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <div>
+<p>This dataset  within the Digital Index of North American Archaeology (DINAA) represents archaeological site definitions in the state of Alabama, United States of America. The source data are provided as a public service by the University of Alabama Office of Archaeological Research (UA-OAR), where they are used to help record cultural resources and ascertain compliance with federal, state, and local statutes regarding the protection of those resources. The representation of these source data in DINAA is limited to definitions of archaeological cultures, site use types, diagnostic artifacts, and fields related to the quality of information preservation at each site. The source data maintained by the UA-OAR contain many other elements that are not present in DINAA, including those that may be improper for Web-publication such as precise location coordinates. As such, DINAA data are not suitable for records checks or other activities to demonstrate compliance with federal, state, or local regulations. DINAA data are useful for recognizing trends among archaeological site characteristics in various spatial and temporal combinations, for research and educational purposes. Any user who wishes to investigate the source data in detail for legal compliance or research purposes, or wishes to learn more about the important work of archaeological preservation in Alabama, should <a href="http://museums.ua.edu/oar">contact the UA-OAR</a> directly.</p>
+
+<h4>Publication Note</h4>
+<p>Open Context published this dataset as part of a larger, multi-state data sharing and integration project, the Digital Index of North American Archaeology (DINAA), funded in 2012 by the National Science Foundation (award # 1216810 and 1217240). DINAA's team of university, public, and private sector researchers is developing models to publish and index archaeological information from large areas of eastern North America for free of charge access and reuse by all researchers, students, and enthusiasts. For more about the DINAA project, <a href="http://ux.opencontext.org/blog/archaeology-site-data/">visit the project website</a>.</p>
+</div>
+        </div>
+      </arch:string>
+    </arch:note>
+  </arch:notes>
+  <oc:metadata>
+    <dc:title>Alabama Site Files: (Overview)</dc:title>
+    <dc:publisher>Open Context</dc:publisher>
+    <dc:date>2014-07-30</dc:date>
+    <dc:subject>Alabama</dc:subject>
+    <dc:subject>archaeology</dc:subject>
+    <dc:subject>cultural resource management</dc:subject>
+    <dc:subject>DINAA</dc:subject>
+    <dc:subject>North America</dc:subject>
+    <dc:subject>site files</dc:subject>
+    <dc:subject>state historical preservation office</dc:subject>
+    <dc:creator href="http://opencontext.org/persons/1CD159BD-8A47-41CB-C68B-F29CD3110609">Office of Archaeological Research (OAR), University of Alabama</dc:creator>
+    <dc:identifier>http://opencontext.org/projects/F905BD53-C843-4349-0A46-48FF32B5F1BE</dc:identifier>
+    <dc:identifier type="doi" href="http://dx.doi.org/10.6078/M7765C76">10.6078/M7765C76</dc:identifier>
+    <oc:project_name href="http://opencontext.org/projects/F905BD53-C843-4349-0A46-48FF32B5F1BE">Alabama Site Files</oc:project_name>
+    <oc:pub_date>2014-07-30T00:00:00-07:00</oc:pub_date>
+    <oc:coins>ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=dataset&amp;rft.title=Alabama+Site+Files%3A+%28Overview%29&amp;rft.publisher=Open+Context&amp;rft.source=Open+Context&amp;rft.subject=Alabama&amp;rft.subject=archaeology&amp;rft.subject=cultural+resource+management&amp;rft.subject=DINAA&amp;rft.subject=North+America&amp;rft.subject=site+files&amp;rft.subject=state+historical+preservation+office&amp;rft.creator=Office+of+Archaeological+Research+%28OAR%29%2C+University+of+Alabama&amp;rft.identifier=http%3A%2F%2Fopencontext.org%2Fprojects%2FF905BD53-C843-4349-0A46-48FF32B5F1BE&amp;rft.identifier=DOI%3A10.6078%2FM7765C76</oc:coins>
+    <oc:copyright_lic href="http://creativecommons.org/publicdomain/zero/1.0/">
+      <oc:lic_name>Zero (Public Domain)</oc:lic_name>
+      <oc:lic_vers>1</oc:lic_vers>
+      <oc:lic_URI>http://creativecommons.org/publicdomain/zero/1.0/</oc:lic_URI>
+      <oc:lic_icon_URI>http://i.creativecommons.org/p/zero/1.0/88x31.png</oc:lic_icon_URI>
+    </oc:copyright_lic>
+  </oc:metadata>
+</arch:project>

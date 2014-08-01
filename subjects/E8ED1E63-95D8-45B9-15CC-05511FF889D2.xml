@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<arch:spatialUnit xmlns:arch="http://ochre.lib.uchicago.edu/schema/SpatialUnit/SpatialUnit.xsd" xmlns:oc="http://opencontext.org/schema/space_schema_v1.xsd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gml="http://www.opengis.net/gml" UUID="E8ED1E63-95D8-45B9-15CC-05511FF889D2" ownedBy="F905BD53-C843-4349-0A46-48FF32B5F1BE">
+  <arch:name>
+    <arch:string>TU1096</arch:string>
+  </arch:name>
+  <oc:item_class>
+    <oc:name>Site</oc:name>
+    <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_50x50.jpg</oc:iconURI>
+  </oc:item_class>
+  <arch:observations>
+    <arch:observation obsNumber="1">
+      <oc:obs_metadata>
+        <oc:source>z_7_c2bb515fa</oc:source>
+      </oc:obs_metadata>
+      <arch:properties>
+        <arch:property>
+          <arch:variableID>028D83AD-6887-4F1B-08A8-F82FEE75FA34</arch:variableID>
+          <arch:valueID>8E42B824-CFF2-419B-9916-4F438DD32A22</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/39A02A75-A10C-417F-1EB2-E9FBAB46C576">39A02A75-A10C-417F-1EB2-E9FBAB46C576</oc:propid>
+          <oc:var_label type="nominal">Ethnic</oc:var_label>
+          <oc:show_val>XXXX</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>B1371BA3-FD08-4FBC-A85A-A4BB464B6081</arch:variableID>
+          <arch:valueID>D1DD9248-974C-4B68-6E49-B2FA1CD42966</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/AE35F981-4BFA-4326-6C46-6ECD47FB8147">AE35F981-4BFA-4326-6C46-6ECD47FB8147</oc:propid>
+          <oc:var_label type="alphanumeric">Stage (Abreviated)</oc:var_label>
+          <oc:show_val>XXXXXX</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>C4EBCF31-9248-40B2-F2B3-2703DEC7DCDC</arch:variableID>
+          <arch:valueID>36B5A632-80E1-4C89-2179-E8DFF3A3B3C4</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/26153D6F-600A-4938-2D26-224903017210">26153D6F-600A-4938-2D26-224903017210</oc:propid>
+          <oc:var_label type="alphanumeric">Period (Abreviated)</oc:var_label>
+          <oc:show_val>XXXXXXXXX</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>8AC5B45F-32E9-4C03-3D8D-B1A9B9B8E122</arch:variableID>
+          <arch:valueID>620343EE-6EB1-4514-4741-E6320AB7E2DF</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/13DAA045-B10C-4BC9-6C86-023E224C9039">13DAA045-B10C-4BC9-6C86-023E224C9039</oc:propid>
+          <oc:var_label type="alphanumeric">Phase (Abreviated)</oc:var_label>
+          <oc:show_val>XXXXXXXXXXXXXXX</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>AAB24398-2E70-4F4C-6568-4220E8088824</arch:variableID>
+          <arch:valueID>53A2EAE4-58D6-4426-58E1-C334761C585E</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/DCD1D655-B4E6-49EF-7D22-20DC0AA1B7DB">DCD1D655-B4E6-49EF-7D22-20DC0AA1B7DB</oc:propid>
+          <oc:var_label type="alphanumeric">Component</oc:var_label>
+          <oc:show_val>Unknown Aboriginal</oc:show_val>
+        </arch:property>
+      </arch:properties>
+    </arch:observation>
+  </arch:observations>
+  <oc:context>
+    <oc:tree id="default">
+      <oc:parent href="http://opencontext.org/subjects/2A1B75E6-8C79-49B9-873A-A2E006669691">
+        <oc:name>United States</oc:name>
+        <oc:id>2A1B75E6-8C79-49B9-873A-A2E006669691</oc:id>
+        <oc:level>3</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/9D7BB146-63E1-47CF-AA85-D2061984381E">
+        <oc:name>Alabama</oc:name>
+        <oc:id>9D7BB146-63E1-47CF-AA85-D2061984381E</oc:id>
+        <oc:level>2</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/258B20DA-788A-4BE7-F74D-D84C0CEB5C28">
+        <oc:name>Tuscaloosa</oc:name>
+        <oc:id>258B20DA-788A-4BE7-F74D-D84C0CEB5C28</oc:id>
+        <oc:level>1</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+    </oc:tree>
+  </oc:context>
+  <oc:metadata>
+    <dc:title>Alabama Site Files: TU1096 (Site)</dc:title>
+    <dc:publisher>Open Context</dc:publisher>
+    <dc:date>2014-07-30</dc:date>
+    <dc:subject>Alabama</dc:subject>
+    <dc:subject>archaeology</dc:subject>
+    <dc:subject>cultural resource management</dc:subject>
+    <dc:subject>DINAA</dc:subject>
+    <dc:subject>North America</dc:subject>
+    <dc:subject>site files</dc:subject>
+    <dc:subject>state historical preservation office</dc:subject>
+    <dc:creator href="http://opencontext.org/persons/1CD159BD-8A47-41CB-C68B-F29CD3110609">Office of Archaeological Research (OAR), University of Alabama</dc:creator>
+    <dc:identifier>http://opencontext.org/subjects/E8ED1E63-95D8-45B9-15CC-05511FF889D2</dc:identifier>
+    <oc:project_name href="http://opencontext.org/projects/F905BD53-C843-4349-0A46-48FF32B5F1BE">Alabama Site Files</oc:project_name>
+    <oc:pub_date>2014-07-30T00:00:00-07:00</oc:pub_date>
+    <oc:coins>ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=dataset&amp;rft.title=Alabama+Site+Files%3A+TU1096+%28Site%29&amp;rft.publisher=Open+Context&amp;rft.source=Open+Context&amp;rft.subject=Alabama&amp;rft.subject=archaeology&amp;rft.subject=cultural+resource+management&amp;rft.subject=DINAA&amp;rft.subject=North+America&amp;rft.subject=site+files&amp;rft.subject=state+historical+preservation+office&amp;rft.creator=Office+of+Archaeological+Research+%28OAR%29%2C+University+of+Alabama&amp;rft.identifier=http%3A%2F%2Fopencontext.org%2Fsubjects%2FE8ED1E63-95D8-45B9-15CC-05511FF889D2</oc:coins>
+    <oc:geo_reference>
+      <oc:geo_lat>33.211085580617</oc:geo_lat>
+      <oc:geo_long>-87.451171875</oc:geo_long>
+      <oc:metasource ref_type="self" href="http://opencontext.org/subjects/E8ED1E63-95D8-45B9-15CC-05511FF889D2" specificity="-11">
+        <oc:note>Approximated by geotile to zoom level 11</oc:note>
+        <oc:source_name>TU1096</oc:source_name>
+        <oc:source_id>E8ED1E63-95D8-45B9-15CC-05511FF889D2</oc:source_id>
+      </oc:metasource>
+    </oc:geo_reference>
+    <oc:copyright_lic href="http://creativecommons.org/publicdomain/zero/1.0/">
+      <oc:lic_name>Zero (Public Domain)</oc:lic_name>
+      <oc:lic_vers>1</oc:lic_vers>
+      <oc:lic_URI>http://creativecommons.org/publicdomain/zero/1.0/</oc:lic_URI>
+      <oc:lic_icon_URI>http://i.creativecommons.org/p/zero/1.0/88x31.png</oc:lic_icon_URI>
+    </oc:copyright_lic>
+  </oc:metadata>
+  <oc:social_usage>
+    <oc:last_updated>2014-07-31T09:42:00-07:00</oc:last_updated>
+    <oc:item_views>
+      <oc:count>1</oc:count>
+      <oc:view_time>2014/07/31 09:42:00</oc:view_time>
+    </oc:item_views>
+    <oc:user_tags/>
+  </oc:social_usage>
+</arch:spatialUnit>
